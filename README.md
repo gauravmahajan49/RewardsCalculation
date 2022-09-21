@@ -11,21 +11,13 @@ Solution:
 
 DataSet used for Example:
 
-id	clientId	clientName	amtSpend	transactionDate	rewardsEarned
-1	    1	        Salman	        90	        9/1/22	        0
-2	    2	        Mohan	        120	        9/1/22	        0
-3	    1	        Salman	        90	        8/1/22	        0
-4	    2	        Mohan	        120	        8/2/22	        0
-5	    1	        Salman	        120	        7/1/22	        0
-6	    2	        Mohan	        120	        7/2/22	        0
-7	    2	        Mohan	        120	        7/6/22	        0
-8	    1	        Salman	        70	        7/6/22	        0
+<img src="/public/dataSet.png" alt="DataSet used for Example">
 
 Result's:
 
 <img src="/public/monthlyRewardsPerCustomer.png" alt="Monthly Rewards Per Customer">
 
-<img src="/public/transactionWithRewards.png" alt="Monthly Rewards Per Customer">
+<img src="/public/transactionWithRewards.png" alt="All Transactions with Rewards Earned">
 
 
 ___________________________________________________________________________________________________
