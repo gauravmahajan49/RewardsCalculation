@@ -8,6 +8,27 @@ Ex: for a $120 purchase, the customer receives
 (120 - 50) x 1 + (120 - 100) x 1 = 90 points
 
 Solution:
+
+DataSet used for Example:
+
+id	clientId	clientName	amtSpend	transactionDate	rewardsEarned
+1	    1	        Salman	        90	        9/1/22	        0
+2	    2	        Mohan	        120	        9/1/22	        0
+3	    1	        Salman	        90	        8/1/22	        0
+4	    2	        Mohan	        120	        8/2/22	        0
+5	    1	        Salman	        120	        7/1/22	        0
+6	    2	        Mohan	        120	        7/2/22	        0
+7	    2	        Mohan	        120	        7/6/22	        0
+8	    1	        Salman	        70	        7/6/22	        0
+
+Result's:
+
+<img src="/public/monthlyRewardsPerCustomer.png" alt="Monthly Rewards Per Customer">
+
+<img src="/public/transactionWithRewards.png" alt="Monthly Rewards Per Customer">
+
+
+___________________________________________________________________________________________________
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
